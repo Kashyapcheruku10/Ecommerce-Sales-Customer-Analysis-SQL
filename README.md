@@ -127,20 +127,6 @@ This dashboard is designed for **Sales Managers** to monitor performance and mak
  Sales Performance by City and Product Category
  Interactive slicers (Year, State, Category)
 
- Dashboard Screenshots
-
- Overview Dashboard
-
-![Overview](images/overview.png)
-
- Customer Insights
-
-![Customers](images/customers.png)
-
- Sales Insights
-
-![Sales](images/sales.png)
-
 
  Author
 Kashyap Cheruku
