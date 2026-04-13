@@ -109,5 +109,38 @@ Conclusion
 This project demonstrates how SQL can be used to transform raw data into actionable business insights. It highlights the importance of data-driven decision-making in e-commerce.
 
 
+
+ Power BI Dashboard
+
+ Dashboard Overview
+
+An interactive Power BI dashboard was created to visualize the insights derived from SQL analysis.
+
+This dashboard is designed for **Sales Managers** to monitor performance and make data-driven decisions.
+
+ Key Features
+
+ KPI Metrics: Total Revenue, Orders, AOV, Customers
+ Monthly Revenue Trend Analysis
+ Customer Insights by State
+ Top Customers by Revenue
+ Sales Performance by City and Product Category
+ Interactive slicers (Year, State, Category)
+
+ Dashboard Screenshots
+
+ Overview Dashboard
+
+![Overview](images/overview.png)
+
+ Customer Insights
+
+![Customers](images/customers.png)
+
+ Sales Insights
+
+![Sales](images/sales.png)
+
+
  Author
 Kashyap Cheruku
